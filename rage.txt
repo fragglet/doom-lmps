@@ -1,0 +1,2 @@
+idgames: themes/TeamTNT/boom/rage.zip
+youtube: https://www.youtube.com/watch?v=wCS-Qdk1XkA
