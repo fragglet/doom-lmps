@@ -1,0 +1,4 @@
+idgames: levels/doom2/megawads/btsx_e1.zip
+comment: requires older version of wad
+youtube: https://www.youtube.com/watch?v=WBtO75q_6TQ
+
